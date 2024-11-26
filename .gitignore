@@ -1,3 +1,5 @@
 node_modules/
 node-backend_key.pem
 
+.node-backend_key.pem.swp
+.DS_Store
